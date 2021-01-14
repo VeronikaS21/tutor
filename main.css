@@ -5,6 +5,7 @@ body {
 .b {
   position: absolute;
   font-family: "BioRhyme", serif;
+  color: #fff;
 }
 
 h1 {
@@ -15,5 +16,5 @@ h1 {
 h2 {
   top: 45%;
   font-weight: 100;
-   margin-left: 200px;
+  margin-left: 200px;
 }
