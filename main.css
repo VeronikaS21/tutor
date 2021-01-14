@@ -1,3 +1,16 @@
 body {
-  background: #bada55;
+  background-color: #bada55;
+}
+
+h1 {
+  position: absolute;
+  right: 20%;
+  top: 40%
+  font-family: "BioRhyme", serif;
+}
+
+h2 {
+  position: absolute;
+  right: 20%;
+  top: 45%;
 }
