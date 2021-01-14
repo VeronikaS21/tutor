@@ -18,3 +18,10 @@ h2 {
   font-weight: 100;
   margin-left: 200px;
 }
+
+.picture {
+  height: 350px;
+  width: 350px;
+  border-radius: 50%;
+  display: inline-block;
+}
