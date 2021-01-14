@@ -1,17 +1,19 @@
 body {
-  background-color: #bada55;
+  background-color: #0052A5;
 }
 
 .b {
   position: absolute;
-  right: 20%;
+  font-family: "BioRhyme", serif;
 }
 
 h1 {
   top: 40%;
-  font-family: "BioRhyme", serif;
+  right: 20%;
 }
 
 h2 {
   top: 45%;
+  font-weight: 100;
+   margin-left: 200px;
 }
