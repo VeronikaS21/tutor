@@ -26,10 +26,20 @@ h2 {
   border-radius: 50%;
 }
 
-.chemistry {
+div {
   height: 200px;
   width: 200px;
-  background-color: #fff;
   border-radius: 50%;
-  display: inline-block;
+}
+
+#chemistry {
+  background-color: #fdfd96;
+}
+
+#mathematics {
+  background-color: #fff;
+}
+
+#physics {
+  background-color: #fff;
 }
