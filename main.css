@@ -1,3 +1,43 @@
 body {
-  background: #bada55;
+  background-color: #0052A5;
+}
+
+.b {
+  position: absolute;
+  font-family: "BioRhyme", serif;
+  color: #fff;
+}
+
+h1 {
+  top: 40%;
+  right: 20%;
+}
+
+h2 {
+  top: 45%;
+  font-weight: 100;
+  margin-left: 200px;
+}
+
+.picture {
+  height: 350px;
+  width: 350px;
+  background-color: #52a500;
+  border-radius: 50%;
+}
+
+div {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+#circles {
+  background-color: #fdfd96;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 200px 2px 0 0 #fdfd96,
+              400px 4px 0 0 #fdfd96;
+/* offset-x | offset-y | blur-radius | spread-radius | color */
 }
