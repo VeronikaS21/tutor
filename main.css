@@ -37,7 +37,7 @@ div {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  box-shadow: 200px 2px 0 0 #009901,
-              300px 4px 0 0 #3531ff;
+  box-shadow: 200px 2px 0 0 #fdfd96,
+              400px 4px 0 0 #fdfd96;
 /* offset-x | offset-y | blur-radius | spread-radius | color */
 }
