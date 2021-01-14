@@ -22,6 +22,7 @@ h2 {
 .picture {
   height: 350px;
   width: 350px;
+  background-color: #52a500;
   border-radius: 50%;
   display: inline-block;
 }
