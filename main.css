@@ -2,15 +2,16 @@ body {
   background-color: #bada55;
 }
 
-h1 {
+.b {
   position: absolute;
   right: 20%;
-  top: 40%
+}
+
+h1 {
+  top: 40%;
   font-family: "BioRhyme", serif;
 }
 
 h2 {
-  position: absolute;
-  right: 20%;
   top: 45%;
 }
