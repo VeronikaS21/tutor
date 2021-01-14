@@ -32,14 +32,12 @@ div {
   border-radius: 50%;
 }
 
-#chemistry {
+#circles {
   background-color: #fdfd96;
-}
-
-#mathematics {
-  background-color: #fff;
-}
-
-#physics {
-  background-color: #fff;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 200px 2px 0 0 #009901,
+              300px 4px 0 0 #3531ff;
+/* offset-x | offset-y | blur-radius | spread-radius | color */
 }
