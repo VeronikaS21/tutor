@@ -32,7 +32,7 @@ div {
   border-radius: 50%;
 }
 
-#circles {
+.round-frame-for-icons {
   background-color: #fdfd96;
   width: 200px;
   height: 200px;
