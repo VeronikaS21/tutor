@@ -17,9 +17,11 @@
       <h2>Master every subject for 20 $/h</h2>
       <div class="picture"></div>
       <div class="round-frame-for-icons"></div>
-      <form action ="#"><input type="name" placeholder="Your name"></form>
-      <form action ="#"><input type="email" placeholder="Your email"></form>
-      <form action ="#"><input type="date" placeholder="Pick a date"></form>
-      <button type="submit"> START LEARNING</button>
+      <form action ="#" method="post">
+        <input type="text" name="username" placeholder="Your name" required >
+        <input type="text" name="email" placeholder="Your email" required>
+        <input type="date" name="date" placeholder="Pick a date" required>
+      </form>
+      <button type="start"> START LEARNING</button>
     </body>
 </html>
