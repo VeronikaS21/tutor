@@ -10,13 +10,13 @@ body {
 
 h1 {
   top: 40%;
-  right: 20%;
+  right: 15%;
 }
 
 h2 {
   top: 45%;
   font-weight: 100;
-  margin-left: 200px;
+  right: 20%;
 }
 
 .picture {
