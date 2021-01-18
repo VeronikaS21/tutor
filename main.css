@@ -45,11 +45,17 @@ div {
   border-radius: 50%;
   box-shadow: 400px 2px 0 0 #fdfd96,
               800px 4px 0 0 #fdfd96;
-
 /* offset-x | offset-y | blur-radius | spread-radius | color */
 }
 
 .responsive-img {
   max-width: 100%;
   height: auto;
+}
+
+fieldset {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 60vh;
 }
